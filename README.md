@@ -35,7 +35,7 @@ Implementar as contramedidas de segurança para proteger sistemas contra esse ti
 Finalizar o projeto para submissão ao Bootcamp Santander 2 Cibersegurança, recebendo feedback e orientação para melhorar as práticas de segurança digital.
 🔒 #Cibersegurança #Phishing #HackingÉtico #Setoolkit #KaliLinux #PenTest #SegurançaDaInformação #ProteçãoDeDados #BootcampSantander #Santander #DIOme #AprendizadoPrático #OportunidadeDeCarreira
 
-🖼️ Imagens para o LinkedIn (caso possa adicionar):
+
 Kali Linux 🐧
 setoolkit 🎯
 Hacking Ético ⚔️
