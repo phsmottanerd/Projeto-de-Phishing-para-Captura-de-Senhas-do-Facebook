@@ -1,7 +1,4 @@
 
-Entendido, vamos ajustar o texto para que você possa apresentar o seu projeto de phishing para captura de senhas do Facebook dentro do Bootcamp Santander 2 Cibersegurança de forma profissional, considerando que o projeto ainda está em andamento.
-
-Aqui vai a descrição aprimorada, com foco no que foi feito até o momento e com ênfase no aprendizado adquirido até o estágio atual do bootcamp:
 
 🛡️ Projeto de Phishing para Captura de Senhas do Facebook 🛡️
 🔥 Bootcamp Santander 2 Cibersegurança | Parceria com a DIO.me 🔥
